@@ -3,5 +3,5 @@
 
 ###### Aplikasi ini dirancang untuk meningkatkan pelayanan, untuk meningkatkan kepuasan reseller, operator pemilik bisnis. Reseller yang dapat melakukan transaksi penjualan pulsa dan melihat harga pulsa sehingga memudahkan reseller apalagi ditambahkan dengan dapat bertransaksi 24 jam selama.
 
-###### Admin disini bertugas untuk menambah daftar agen, mengedit daftar 
+###### Admin disini bertugas untuk menambah daftar agen, mengedit daftar agen, mentransfer saldo kepada reseller, mengedit jenis operator yang ada. Sedangkan agen bisa melihat daftar operator dan juga melakukan transaksi, juga dapat melihat history transaksi
 
