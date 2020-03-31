@@ -6,7 +6,7 @@
 
 ###### Dalam mengatur tampilan/UI nya saya nanti akan menggunakan toolkits Tkinter. 
 
-###### Dalam perancangan ini, terdiri dari 3 database, yaitu :
+###### Dalam perancangan ini, terdiri dari 3 model, yaitu :
 
 ##### Admin 
 ###### Pada admin datanya berupa ```Id Admin, Usename, Password``` 
