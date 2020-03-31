@@ -8,11 +8,11 @@
 
 ###### Dalam perancangan ini, terdiri dari 3 database, yaitu :
 
-### Admin 
+##### Admin 
 ###### Pada admin datanya berupa ```Id Admin, Usename, Password``` 
 
-### Agen 
+##### Agen 
 ###### Pada agen datanya berupa ```Id Admin, Nama, Telepon dan Password``` 
 
-### Jenis Paket(Harga)
+##### Jenis Paket(Harga)
 ###### Pada Jenis Paket datanya berupa ```Operator, Kode Produk, Rincian dan Harga```
