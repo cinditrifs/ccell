@@ -23,7 +23,7 @@ Agen:
 1. Unduh/clone repository ini.
 2. Pastikan python, redis, redis desktop manager dan library yang diperlukan sudah terinstall. Untuk library dapat diinstall melalui cmd: ```pip install <nama library>``` 
 3. Sebelum menjalankan program ini, pastikan anda sudah terhubung dengan server redis. 
-4. Jalankan script ```main.py``` pada folder CandyCell. Script ini juga langsung menjalankan file ```database.py```
+4. Buka lalh jalankan (run) script ```main.py``` pada folder CandyCell. Script ini juga langsung menjalankan file ```database.py```
 5. Login menggunakan akun yang tersedia pada ```daftarakun.txt``` 
 6. Aplikasi dapat digunakan
 
