@@ -1,5 +1,5 @@
 # Candy Cell 
-######Aplikasi dekstop yang digunakan oleh admin dan juga agen. 
+###### Aplikasi dekstop yang digunakan oleh admin dan juga agen. 
 
 ### Yang harus dipersiapkan 
 - Python 3.5+
@@ -27,7 +27,7 @@ Agen:
 5. Login menggunakan akun yang tersedia pada ```daftarakun.txt``` 
 6. Aplikasi dapat digunakan
 
-###### note :
+#### note :
 1. Redis dapat di download di > https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100
 2. Redis dekstop manager di download di > https://github.com/uglide/RedisDesktopManager
 3. Cara menghubungkan dengan server redis > buka file redis lalu ```redis server``` . Namun, jika sudah mengatur environtment variable dengan memasukkan redis, hanya tinggal di mengetik ```redis-cli``` di cmd
