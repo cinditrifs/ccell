@@ -1,0 +1,16 @@
+#admin
+admin_001 = {'name' : 'Cindi Tri', 'username' : 'admin_001', 'password' : 1111}
+admin_002 = {'name' : 'Canda Dwi', 'username' : 'admin_002', 'password' : 2222}
+admin_003 = {'name' : 'Candy Four', 'username' : 'admin_003', 'password' : 3333 }
+
+#agen
+agen_001 = {'name' : 'Afny', 'id_agen' : 'agen_001', 'tlp_num' : '081276564738', 'pin': 1101}
+agen_002 = {'name' : 'Nilatil Moena', 'id_agen' : 'agen_002', 'tlp_num' : '08123456789', 'pin': 1102}
+agen_003 = {'name' : 'Novitasari', 'id_agen' : 'agen_003', 'tlp_num' : '089876567895', 'pin': 1103}
+agen_004 = {'name' : 'Zakiyah Hamidah', 'id_agen' : 'agen_004', 'tlp_num' : '08234567898', 'pin': 1104}
+agen_005 = {'name' : 'Diyah Anggraeny', 'id_agen' : 'agen_005', 'tlp_num' : '082345768909', 'pin': 1105}
+agen_006 = {'name' : 'Rachel Haryawan', 'id_agen' : 'agen_006', 'tlp_num' : '08962543789', 'pin': 1106 }
+agen_007 = {'name' : 'Muhammad Ardani', 'id_agen' : 'agen_007', 'tlp_num' : '08234567800', 'pin': 1107 }
+agen_008 = {'name' : 'Zaidan Pratama', 'id_agen' : 'agen_008', 'tlp_num' : '08234567834', 'pin': 1108}
+agen_009 = {'name' : 'Lazuardy Khatilistiwa', 'id_agen' : 'agen_009', 'tlp_num' : '08234556898', 'pin': 1109}
+agen_010 = {'name' : 'Lisa Arief', 'id_agen' : 'agen_010', 'tlp_num' : '08434567898', 'pin': 1110}
