@@ -33,3 +33,7 @@ Agen:
 3. Cara menghubungkan dengan server redis > buka file redis lalu ```redis server``` . Namun, jika sudah mengatur environtment variable dengan memasukkan redis, hanya tinggal di mengetik ```redis-cli``` di cmd
 4. Library yang dibutuhkan : Tkinter, redis
 5. Aplikasi ini belum sempurna masih banyak yang harus diperbaiki :)
+
+
+#### Link Video :
+>> https://youtu.be/qpguOty2Nck <<
